@@ -19,3 +19,7 @@ pip install -r requirements.txt
 
 ## 测试
 将需要进行识别的图片放在test_img文件夹下，运行main.py文件，结果将会生成在result文件夹下
+
+## 参考 
+https://github.com/PaddlePaddle/PaddleOCR  
+https://github.com/ultralytics/yolov5
